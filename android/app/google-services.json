@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308893447553",
+    "project_id": "for-you-daily",
+    "storage_bucket": "for-you-daily.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308893447553:android:2351755e164daa43396480",
+        "android_client_info": {
+          "package_name": "com.example.for_you_daily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmFZv_zdgyhVOtkEkYA8Ld2B4ba3hzx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
